@@ -1,4 +1,4 @@
-package com.example.cizitka
+package com.example.vizitka
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
